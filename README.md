@@ -80,7 +80,7 @@ Salve e execute estes prompts dentro do seu NotebookLM para fixar os conceitos o
 ---
 
 ## 🛠️ Como Clonar e Replicar este Notebook
-1. Acesse o [Google NotebookLM](https://notebooklm.google/).
+1. Acesse o [Google NotebookLM](https://notebooklm.google.com/notebook/5d66bba8-608e-4203-a93f-bf79777b2212).
 2. Crie um novo projeto/caderno com o nome `Estudos Linux e Automação`.
 3. Faça o upload dos artigos, manuais e PDFs listados na seção de [Curadoria de Fontes](#-curadoria-de-fontes).
 4. Utilize os prompts refinados da seção de [Engenharia de Prompts](#-engenharia-de-prompts-e-cicatrizes-troubleshooting) para interagir com a base e dar continuidade aos seus estudos de administração de sistemas.
